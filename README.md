@@ -102,8 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌐 Links
 
-- [Website](https://ogimage.click/)
-- [Issue Tracker](https://github.com/weijunext/ogimage-click/issues)
+- [Live Site](https://myogimage.com/)
 
 ---
 
